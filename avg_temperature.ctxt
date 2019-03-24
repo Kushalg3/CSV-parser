@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=avg_temperature
+comment0.text=\r\n\ Write\ a\ description\ of\ avg_temperature\ here.\r\n\ \r\n\ @author\ (Kushla\ Ghosh)\ \r\n\ @version\ (20/03/2019)\r\n
+comment1.params=
+comment1.target=double\ testHottestInDayInDatabase()
+comment2.params=
+comment2.target=void\ testAvgTemperature()
+numComments=3
